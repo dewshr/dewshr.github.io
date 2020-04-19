@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://dewshr.github.io/en/r/automatically-upload-files-to-remote-server-using-python/</loc>
-    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dewshr.github.io/en/categories/</loc>
     <lastmod>2020-04-18T14:21:45-05:00</lastmod>
     <xhtml:link
@@ -49,11 +44,6 @@
   
   <url>
     <loc>https://dewshr.github.io/en/tags/python/</loc>
-    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dewshr.github.io/en/r/</loc>
     <lastmod>2020-04-18T14:21:45-05:00</lastmod>
   </url>
   
@@ -122,6 +112,10 @@
   
   <url>
     <loc>https://dewshr.github.io/en/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/r/</loc>
   </url>
   
   <url>
