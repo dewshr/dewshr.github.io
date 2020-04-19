@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dewshr.github.io/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/python/automatically-upload-files-to-remote-server-using-python/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/categories/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://dewshr.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dewshr.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/paramiko/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/python/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/python/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/categories/syntax/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://dewshr.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dewshr.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://dewshr.github.io/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dewshr.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/about/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/showcase/hugo/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/showcase/</loc>
+    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/other_stuffs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/r/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://dewshr.github.io/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dewshr.github.io/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/stats/</loc>
+  </url>
+  
+</urlset>

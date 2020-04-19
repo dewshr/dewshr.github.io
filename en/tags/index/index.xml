@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>index on Helpful Notes</title>
+    <link>https://dewshr.github.io/en/tags/index/</link>
+    <description>Recent content in index on Helpful Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
+    <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://dewshr.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Python</title>
+        <link>https://dewshr.github.io/en/python/</link>
+        <pubDate>Sat, 18 Apr 2020 14:21:45 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/python/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Other_stuffs</title>
+        <link>https://dewshr.github.io/en/other_stuffs/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/other_stuffs/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Papers</title>
+        <link>https://dewshr.github.io/en/papers/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/papers/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>R</title>
+        <link>https://dewshr.github.io/en/r/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/r/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Stats</title>
+        <link>https://dewshr.github.io/en/stats/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/stats/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

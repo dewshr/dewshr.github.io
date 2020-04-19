@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>python on Helpful Notes</title>
+    <link>https://dewshr.github.io/en/tags/python/</link>
+    <description>Recent content in python on Helpful Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
+    <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 18 Apr 2020 14:21:45 -0500</lastBuildDate>
+    
+        <atom:link href="https://dewshr.github.io/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Automatically Upload Files to Remote Server Using Python</title>
+        <link>https://dewshr.github.io/en/python/automatically-upload-files-to-remote-server-using-python/</link>
+        <pubDate>Sat, 18 Apr 2020 14:21:45 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        <atom:modified>Sat, 18 Apr 2020 14:21:45 -0500</atom:modified>
+        <guid>https://dewshr.github.io/en/python/automatically-upload-files-to-remote-server-using-python/</guid>
+        <description>If you have your own server like Synology NAS or have access to other servers, you can write a sctipt in python to upload files to your remote server using python package called Paramiko.
+I was trying to use function directly from Paramiko using SFTP (Secure File Transfer Protocol) client, but I getting error saying Channel is closed. So, I used the scp module from SCP. The code given below is what I used to upload my files to the server using python.</description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        <media:content url="https://dewshr.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>paramiko</category>
+            
+          
+        
+        
+          
+            
+              <category>syntax</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
