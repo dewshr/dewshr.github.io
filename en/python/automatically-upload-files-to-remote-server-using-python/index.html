@@ -1642,7 +1642,7 @@
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;Apr 18, 2020 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;2&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;1&nbsp;min read </span>
   
   &nbsp;&middot;&nbsp; <span class="single__info" title="WRITTEN BY">✍️&nbsp;Dewan Shrestha</span>
   
@@ -1694,34 +1694,9 @@ scp_client.put('local_folder', recursive=True, remote_path='/remote/path/local_f
 scp_client.close()
 ssh_client.close()
 </code></pre><br/>
-<h4 id="automating-the-job">Automating the job</h4>
-<p>This is fine if you want to do it only once, but if you are modiyfing files or generating new files daily, then you can automate the task to run the above script at certain time daily. I am using macbook, and you can do that using following steps :</p>
-<p><em>In your terminal type :</em>  <code>crontab -e</code></p>
-<p><em>A file will open, then you can type:</em> <code>0 21 * * * python /path/upload.py &gt;&gt; ~/cron.log 2&gt;&amp;1</code></p>
-<p><em>and then save the file. Here 0 represents minutes, 21 represents hour, which is 9 pm. And since we want to run this command everyday for every other month, all other values are *. If you want to run certain number of days in a month you can do so by changing the value. You can <a href="https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/">click here</a> for more details</em></p>
-<blockquote>
-<p>NOTE : If you are using separate environment to run the script, then you can add the shebang line on top of your code as: <code>#!/Users/username/opt/anaconda3/envs/env_name/bin/python</code>.</p>
-</blockquote>
-<blockquote>
-<p>You can use <code>conda env list</code> to get the path of your environment.</p>
-</blockquote>
-<blockquote>
-<p>If your cron job is not done, then check the log file, probably cron doesn&rsquo;t have access to the script, if so then you need to provide access to cron. Here, is the <a href="https://blog.bejarano.io/fixing-cron-jobs-in-mojave/">link</a> for that.</p>
-</blockquote>
 <h5 id="links">Links</h5>
 <ul>
-<li>
-<p><a href="https://github.com/jbardin/scp.py">SCP</a></p>
-</li>
-<li>
-<p><a href="https://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/">Cron Job Scheduling Mac</a></p>
-</li>
-<li>
-<p><a href="https://blog.bejarano.io/fixing-cron-jobs-in-mojave/">Cron permission access</a></p>
-</li>
-<li>
-<p><a href="https://stackoverflow.com/questions/7195503/setting-up-a-cron-job-in-windows">Job Scheduling Windows</a></p>
-</li>
+<li><a href="https://github.com/jbardin/scp.py">SCP</a></li>
 </ul>
 
     </article>
@@ -2294,7 +2269,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <ul>
         <li>
           <ul>
-            <li><a href="#automating-the-job">Automating the job</a></li>
+            <li></li>
           </ul>
         </li>
       </ul>
