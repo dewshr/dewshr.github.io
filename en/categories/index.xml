@@ -14,13 +14,31 @@
     <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
     <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 14:21:45 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 19:27:11 -0500</lastBuildDate>
     
         <atom:link href="https://dewshr.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>linux</title>
+        <link>https://dewshr.github.io/en/categories/linux/</link>
+        <pubDate>Sun, 19 Apr 2020 19:27:11 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/categories/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>syntax</title>

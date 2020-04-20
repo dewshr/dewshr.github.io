@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>sed on Helpful Notes</title>
+    <link>https://dewshr.github.io/en/tags/sed/</link>
+    <description>Recent content in sed on Helpful Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
+    <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 19 Apr 2020 19:27:11 -0500</lastBuildDate>
+    
+        <atom:link href="https://dewshr.github.io/en/tags/sed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Linux Tips</title>
+        <link>https://dewshr.github.io/en/other_stuffs/linux-tips/</link>
+        <pubDate>Sun, 19 Apr 2020 19:27:11 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        <atom:modified>Sun, 19 Apr 2020 19:27:11 -0500</atom:modified>
+        <guid>https://dewshr.github.io/en/other_stuffs/linux-tips/</guid>
+        <description>Find common lines between two files
+comm -12 &amp;gt;(sort file1) &amp;lt;(sort file2)
+Getting all the rows with 2 columns having same values
+awk &#39;($4==$5)&#39; input_file.txt &amp;gt; output_file.txt
+Filtering rows based on certain certain column value
+awk &#39;($4 &amp;lt; 5)&#39; input_file.txt &amp;gt; output_file.txt
+Getting mean value for specific column
+awk {total +=$4} END {print total/NR} input_file.txt
+Getting unique values based on multiple column comparison
+awk -F&amp;quot;\t&amp;quot; &#39;seen[$1,$2,$3,$4]++&#39; input_file,txt &amp;gt; output_file.txt</description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        <media:content url="https://dewshr.github.io/images/feature3/linux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>awk</category>
+            
+          
+            
+              <category>sed</category>
+            
+          
+            
+              <category>shell</category>
+            
+          
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

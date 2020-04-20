@@ -22,12 +22,12 @@
 
       
       <item>
-        <title>Python</title>
-        <link>https://dewshr.github.io/en/python/</link>
-        <pubDate>Sat, 18 Apr 2020 14:21:45 -0500</pubDate>
+        <title>Other_stuffs</title>
+        <link>https://dewshr.github.io/en/other_stuffs/</link>
+        <pubDate>Sun, 19 Apr 2020 19:27:11 -0500</pubDate>
         <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
         
-        <guid>https://dewshr.github.io/en/python/</guid>
+        <guid>https://dewshr.github.io/en/other_stuffs/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
@@ -46,12 +46,12 @@
       </item>
       
       <item>
-        <title>Other_stuffs</title>
-        <link>https://dewshr.github.io/en/other_stuffs/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <title>Python</title>
+        <link>https://dewshr.github.io/en/python/</link>
+        <pubDate>Sat, 18 Apr 2020 14:21:45 -0500</pubDate>
         <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
         
-        <guid>https://dewshr.github.io/en/other_stuffs/</guid>
+        <guid>https://dewshr.github.io/en/python/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

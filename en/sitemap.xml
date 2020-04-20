@@ -13,13 +13,13 @@
   </url>
   
   <url>
-    <loc>https://dewshr.github.io/en/python/automatically-upload-files-to-remote-server-using-python/</loc>
-    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+    <loc>https://dewshr.github.io/en/tags/awk/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://dewshr.github.io/en/categories/</loc>
-    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -30,6 +30,56 @@
                 hreflang="en"
                 href="https://dewshr.github.io/en/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/linux/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/categories/linux/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/other_stuffs/linux-tips/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/other_stuffs/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/sed/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/shell/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/</loc>
+    <lastmod>2020-04-19T19:27:11-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://dewshr.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dewshr.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/python/automatically-upload-files-to-remote-server-using-python/</loc>
+    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
   </url>
   
   <url>
@@ -50,21 +100,6 @@
   <url>
     <loc>https://dewshr.github.io/en/categories/syntax/</loc>
     <lastmod>2020-04-18T14:21:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dewshr.github.io/en/tags/</loc>
-    <lastmod>2020-04-18T14:21:45-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://dewshr.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dewshr.github.io/en/tags/"
-                />
   </url>
   
   <url>
@@ -104,10 +139,6 @@
   
   <url>
     <loc>https://dewshr.github.io/en/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dewshr.github.io/en/other_stuffs/</loc>
   </url>
   
   <url>
