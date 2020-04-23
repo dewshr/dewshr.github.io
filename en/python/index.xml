@@ -14,13 +14,56 @@
     <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
     <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 14:21:45 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:15 -0500</lastBuildDate>
     
         <atom:link href="https://dewshr.github.io/en/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Creating Multiple Subplots in One Figure Using Seaborn Python</title>
+        <link>https://dewshr.github.io/en/python/creating-multiple-subplots-using-seaborn-python/</link>
+        <pubDate>Thu, 23 Apr 2020 00:00:15 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        <atom:modified>Thu, 23 Apr 2020 00:00:15 -0500</atom:modified>
+        <guid>https://dewshr.github.io/en/python/creating-multiple-subplots-using-seaborn-python/</guid>
+        <description>If you want to include multiple plots in a single figure, you can do that by creating axes. Here, is the sample code for that. In this section of code I am just loading the example dataset.
+import searborn as sns import matplotlib.pyplot as plt data = sns.load _dataset(&#39;tips&#39;) tips.head() total_bill	tip	sex	smoker	day	time	size 0	16.99	1.01	Female	No	Sun	Dinner	2 1	10.34	1.66	Male	No	Sun	Dinner	3 2	21.</description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        <media:content url="https://dewshr.github.io/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>seaborn</category>
+            
+          
+            
+              <category>matplotlib</category>
+            
+          
+            
+              <category>subplots</category>
+            
+          
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
       
       <item>
         <title>Automatically Upload Files to Remote Server Using Python</title>
@@ -39,10 +82,6 @@ I was trying to use function directly from Paramiko using SFTP (Secure File Tran
         
           
             
-              <category>python</category>
-            
-          
-            
               <category>paramiko</category>
             
           
@@ -51,6 +90,10 @@ I was trying to use function directly from Paramiko using SFTP (Secure File Tran
           
             
               <category>syntax</category>
+            
+          
+            
+              <category>python</category>
             
           
         

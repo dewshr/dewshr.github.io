@@ -14,13 +14,67 @@
     <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
     <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 19 Apr 2020 19:27:11 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:15 -0500</lastBuildDate>
     
         <atom:link href="https://dewshr.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>matplotlib</title>
+        <link>https://dewshr.github.io/en/tags/matplotlib/</link>
+        <pubDate>Thu, 23 Apr 2020 00:00:15 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/tags/matplotlib/</guid>
+        <description></description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>seaborn</title>
+        <link>https://dewshr.github.io/en/tags/seaborn/</link>
+        <pubDate>Thu, 23 Apr 2020 00:00:15 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/tags/seaborn/</guid>
+        <description></description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>subplots</title>
+        <link>https://dewshr.github.io/en/tags/subplots/</link>
+        <pubDate>Thu, 23 Apr 2020 00:00:15 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/tags/subplots/</guid>
+        <description></description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>awk</title>
@@ -101,24 +155,6 @@
         <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
         
         <guid>https://dewshr.github.io/en/tags/paramiko/</guid>
-        <description></description>
-        
-        <dc:creator>Dewan Shrestha</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>python</title>
-        <link>https://dewshr.github.io/en/tags/python/</link>
-        <pubDate>Sat, 18 Apr 2020 14:21:45 -0500</pubDate>
-        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
-        
-        <guid>https://dewshr.github.io/en/tags/python/</guid>
         <description></description>
         
         <dc:creator>Dewan Shrestha</dc:creator>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>python on Helpful Notes</title>
+    <link>https://dewshr.github.io/en/categories/python/</link>
+    <description>Recent content in python on Helpful Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
+    <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:15 -0500</lastBuildDate>
+    
+        <atom:link href="https://dewshr.github.io/en/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Creating Multiple Subplots in One Figure Using Seaborn Python</title>
+        <link>https://dewshr.github.io/en/python/creating-multiple-subplots-using-seaborn-python/</link>
+        <pubDate>Thu, 23 Apr 2020 00:00:15 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        <atom:modified>Thu, 23 Apr 2020 00:00:15 -0500</atom:modified>
+        <guid>https://dewshr.github.io/en/python/creating-multiple-subplots-using-seaborn-python/</guid>
+        <description>If you want to include multiple plots in a single figure, you can do that by creating axes. Here, is the sample code for that. In this section of code I am just loading the example dataset.
+import searborn as sns import matplotlib.pyplot as plt data = sns.load _dataset(&#39;tips&#39;) tips.head() total_bill	tip	sex	smoker	day	time	size 0	16.99	1.01	Female	No	Sun	Dinner	2 1	10.34	1.66	Male	No	Sun	Dinner	3 2	21.</description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        <media:content url="https://dewshr.github.io/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>seaborn</category>
+            
+          
+            
+              <category>matplotlib</category>
+            
+          
+            
+              <category>subplots</category>
+            
+          
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Automatically Upload Files to Remote Server Using Python</title>
+        <link>https://dewshr.github.io/en/python/automatically-upload-files-to-remote-server-using-python/</link>
+        <pubDate>Sat, 18 Apr 2020 14:21:45 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        <atom:modified>Sat, 18 Apr 2020 14:21:45 -0500</atom:modified>
+        <guid>https://dewshr.github.io/en/python/automatically-upload-files-to-remote-server-using-python/</guid>
+        <description>If you have your own server like Synology NAS or have access to other servers, you can write a sctipt in python to upload files to your remote server using python package called Paramiko.
+I was trying to use function directly from Paramiko using SFTP (Secure File Transfer Protocol) client, but I getting error saying Channel is closed. So, I used the scp module from SCP. The code given below is what I used to upload my files to the server using python.</description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        <media:content url="https://dewshr.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>paramiko</category>
+            
+          
+        
+        
+          
+            
+              <category>syntax</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

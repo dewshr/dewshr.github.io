@@ -39,10 +39,6 @@ I was trying to use function directly from Paramiko using SFTP (Secure File Tran
         
           
             
-              <category>python</category>
-            
-          
-            
               <category>paramiko</category>
             
           
@@ -51,6 +47,10 @@ I was trying to use function directly from Paramiko using SFTP (Secure File Tran
           
             
               <category>syntax</category>
+            
+          
+            
+              <category>python</category>
             
           
         
