@@ -14,7 +14,7 @@
     <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
     <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 19 Apr 2020 19:21:21 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 23:21:31 -0500</lastBuildDate>
     
         <atom:link href="/en/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,12 @@
 
       
       <item>
-        <title>Linux Tips</title>
-        <link>/en/en/other_stuffs/linux-tips/</link>
-        <pubDate>Sun, 19 Apr 2020 19:21:21 -0500</pubDate>
+        <title>2020 05 12 Generate Motif Sequence Given Pwm Matrix</title>
+        <link>/en/en/python/2020-05-12-generate-motif-sequence-given-pwm-matrix/</link>
+        <pubDate>Tue, 12 May 2020 23:21:31 -0500</pubDate>
         <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
-        <atom:modified>Sun, 19 Apr 2020 19:21:21 -0500</atom:modified>
-        <guid>/en/en/other_stuffs/linux-tips/</guid>
+        <atom:modified>Tue, 12 May 2020 23:21:31 -0500</atom:modified>
+        <guid>/en/en/python/2020-05-12-generate-motif-sequence-given-pwm-matrix/</guid>
         <description></description>
         
         <dc:creator>Dewan Shrestha</dc:creator>

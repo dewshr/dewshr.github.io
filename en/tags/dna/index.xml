@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>DNA on Helpful Notes</title>
+    <link>https://dewshr.github.io/en/tags/dna/</link>
+    <description>Recent content in DNA on Helpful Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
+    <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 12 May 2020 23:24:14 -0500</lastBuildDate>
+    
+        <atom:link href="https://dewshr.github.io/en/tags/dna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Generate Motif Sequence From Pwm Matrix</title>
+        <link>https://dewshr.github.io/en/python/generate-motif-sequence-from-pwm-matrix/</link>
+        <pubDate>Tue, 12 May 2020 23:24:14 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        <atom:modified>Tue, 12 May 2020 23:24:14 -0500</atom:modified>
+        <guid>https://dewshr.github.io/en/python/generate-motif-sequence-from-pwm-matrix/</guid>
+        <description>I am using PWM (Position Weight Matrix) file in meme format downloaded from JASPAR database as the input file. I am using random.choices from python to randomly generate the nucleotide motif sequence using the probability value for each position as weights.
+import random def generate_nucleotide(probability): if sum(p) ==1: return random.choices([&#39;A&#39;,&#39;C&#39;,&#39;G&#39;,&#39;T&#39;], weights=probability) elif sum(p) &amp;lt; 1: diff = 1 - sum(p) index = probability.index(max(probability)) probability[index] = probability[index] + diff return random.</description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        <media:content url="https://dewshr.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>motif</category>
+            
+          
+            
+              <category>DNA</category>
+            
+          
+            
+              <category>sequence</category>
+            
+          
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

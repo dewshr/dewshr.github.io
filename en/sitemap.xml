@@ -14,7 +14,7 @@
   
   <url>
     <loc>https://dewshr.github.io/en/categories/</loc>
-    <lastmod>2020-04-23T00:00:15-05:00</lastmod>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -24,6 +24,51 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dewshr.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/dna/</loc>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/python/generate-motif-sequence-from-pwm-matrix/</loc>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/motif/</loc>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/python/</loc>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/categories/python/</loc>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/sequence/</loc>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dewshr.github.io/en/tags/</loc>
+    <lastmod>2020-05-12T23:24:14-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://dewshr.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dewshr.github.io/en/tags/"
                 />
   </url>
   
@@ -38,16 +83,6 @@
   </url>
   
   <url>
-    <loc>https://dewshr.github.io/en/python/</loc>
-    <lastmod>2020-04-23T00:00:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dewshr.github.io/en/categories/python/</loc>
-    <lastmod>2020-04-23T00:00:15-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dewshr.github.io/en/tags/seaborn/</loc>
     <lastmod>2020-04-23T00:00:15-05:00</lastmod>
   </url>
@@ -55,21 +90,6 @@
   <url>
     <loc>https://dewshr.github.io/en/tags/subplots/</loc>
     <lastmod>2020-04-23T00:00:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dewshr.github.io/en/tags/</loc>
-    <lastmod>2020-04-23T00:00:15-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://dewshr.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dewshr.github.io/en/tags/"
-                />
   </url>
   
   <url>

@@ -14,13 +14,67 @@
     <managingEditor>mailto:dewshrs@gmail.com (Dewan Shrestha)</managingEditor>
     <webMaster>mailto:dewshrs@gmail.com (Dewan Shrestha)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:15 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 23:24:14 -0500</lastBuildDate>
     
         <atom:link href="https://dewshr.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>DNA</title>
+        <link>https://dewshr.github.io/en/tags/dna/</link>
+        <pubDate>Tue, 12 May 2020 23:24:14 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/tags/dna/</guid>
+        <description></description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>motif</title>
+        <link>https://dewshr.github.io/en/tags/motif/</link>
+        <pubDate>Tue, 12 May 2020 23:24:14 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/tags/motif/</guid>
+        <description></description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>sequence</title>
+        <link>https://dewshr.github.io/en/tags/sequence/</link>
+        <pubDate>Tue, 12 May 2020 23:24:14 -0500</pubDate>
+        <author>mailto:dewshrs@gmail.com (Dewan Shrestha)</author>
+        
+        <guid>https://dewshr.github.io/en/tags/sequence/</guid>
+        <description></description>
+        
+        <dc:creator>Dewan Shrestha</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>matplotlib</title>
