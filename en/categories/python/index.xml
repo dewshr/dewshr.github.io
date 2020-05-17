@@ -30,7 +30,7 @@
         <atom:modified>Tue, 12 May 2020 23:24:14 -0500</atom:modified>
         <guid>https://dewshr.github.io/en/python/generate-motif-sequence-from-pwm-matrix/</guid>
         <description>I am using PWM (Position Weight Matrix) file in meme format downloaded from JASPAR database as the input file. I am using random.choices from python to randomly generate the nucleotide motif sequence using the probability value for each position as weights.
-import random def generate_nucleotide(probability): if sum(p) ==1: return random.choices([&#39;A&#39;,&#39;C&#39;,&#39;G&#39;,&#39;T&#39;], weights=probability) elif sum(p) &amp;lt; 1: diff = 1 - sum(p) index = probability.index(max(probability)) probability[index] = probability[index] + diff return random.</description>
+import random def generate_nucleotide(probability): if sum(probability) ==1: return random.choices([&#39;A&#39;,&#39;C&#39;,&#39;G&#39;,&#39;T&#39;], weights=probability) elif sum(probability) &amp;lt; 1: diff = 1 - sum(probability) index = probability.index(max(probability)) probability[index] = probability[index] + diff return random.</description>
         
         <dc:creator>Dewan Shrestha</dc:creator>
         <media:content url="https://dewshr.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
