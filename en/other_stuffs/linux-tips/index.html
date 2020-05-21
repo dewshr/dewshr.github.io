@@ -1666,7 +1666,7 @@
 <code>comm -12 &gt;(sort file1) &lt;(sort file2)</code></p>
 <p>Getting all the rows with 2 columns having same values<br />
 <code>awk '($4==$5)' input_file.txt &gt; output_file.txt</code></p>
-<p>Filtering rows based on certain certain column value<br />
+<p>Filtering rows based on certain column value<br />
 <code>awk '($4 &lt; 5)' input_file.txt &gt; output_file.txt</code></p>
 <p>Getting mean value for specific column<br />
 <code>awk {total +=$4} END {print total/NR} input_file.txt</code></p>

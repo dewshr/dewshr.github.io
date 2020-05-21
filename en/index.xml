@@ -140,12 +140,13 @@ import searborn as sns import matplotlib.pyplot as plt data = sns.load _dataset(
 comm -12 &amp;gt;(sort file1) &amp;lt;(sort file2)
 Getting all the rows with 2 columns having same values
 awk &#39;($4==$5)&#39; input_file.txt &amp;gt; output_file.txt
-Filtering rows based on certain certain column value
+Filtering rows based on certain column value
 awk &#39;($4 &amp;lt; 5)&#39; input_file.txt &amp;gt; output_file.txt
 Getting mean value for specific column
 awk {total +=$4} END {print total/NR} input_file.txt
 Getting unique values based on multiple column comparison
-awk -F&amp;quot;\t&amp;quot; &#39;seen[$1,$2,$3,$4]++&#39; input_file,txt &amp;gt; output_file.txt</description>
+awk -F&amp;quot;\t&amp;quot; &#39;seen[$1,$2,$3,$4]++&#39; input_file,txt &amp;gt; output_file.txt
+Removing first row without opening file</description>
         
         <dc:creator>Dewan Shrestha</dc:creator>
         <media:content url="https://dewshr.github.io/images/feature3/linux.png" medium="image"><media:title type="html">featured image</media:title></media:content>
