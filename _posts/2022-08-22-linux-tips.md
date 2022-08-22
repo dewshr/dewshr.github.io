@@ -4,7 +4,7 @@ author: Dewan Shrestha
 date: 2022-08-22 13:30:00 -0500 
 categories: [linux]
 tags: [awk, sed, shell]
-
+pin: true
 ---
 
 **Find common lines between two files**
