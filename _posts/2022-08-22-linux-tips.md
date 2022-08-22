@@ -1,9 +1,10 @@
 ---
 title: "Linux Tips"
+author: Dewan Shrestha
 date: 2022-08-22 13:30:00 -0500 
-description: Some commonly used shell commands
-tags: [awk, sed, shell]
 categories: [linux]
+tags: [awk, sed, shell]
+
 ---
 
 <br/>
