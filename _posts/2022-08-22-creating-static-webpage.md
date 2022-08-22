@@ -52,13 +52,34 @@ The last number on the date represents the time zone. For more details follow th
 
 <br/>
 
-# Deploying website through github
+# Building and Deploying website through github
 Before we deploy, there is also another file (**pages-deploy.yml**) that needs to be changed. I used `vi .github/workflows/pages-deploy.yml` to edit the file.
 
-Since, I am running on **macOS**. I changed runs-on section from **linux** to **macOS-12**. You might also need to change the ruby version. I changed it to `3.1.2p20`. You can get the version information by running `ruby -v` in terminal.
+Since, I am running on **macOS**. I changed runs-on section from **linux** to **macOS-12**. You might also need to change the ruby version. I changed it to `3.1.2`. You can get the version information by running `ruby -v` in terminal. In my case, running `ruby -v` gives version as `3.1.2p20`. You do not need to include `p20` in the version information.
 
 Now after making all these changes, you can push the changes to github repository:
 *   `git add .`
 *   `git commit -m 'first commit'`
 *   `git push`
 
+After this go to the your github repository and click on `Actions` tab. You can see the status of your workflow over there.
+
+![github_deploy](/assets/img/github_deploy.png)
+
+The successful built and deployment will have the green check mark as shown above. That was not the case for me. You can click on the failed section to get the detailed log of the event.
+
+![github_deploy_error](/assets/img/github_deploy_error.png)
+
+***I had to run following command to fix it:***
+
+```
+bundle lock --add-platform ruby
+```
+
+------
+> **_NOTE:_** Everytime you make changes you need to `git add .` and `git commit -m 'message'` and `git push`.
+------
+
+After successful build and deployment, go to `settings` and then click on `pages` and then change the branch to `gh-pages` and save. 
+
+![github_launch_page](/assets/img/github_launch_page.png)
