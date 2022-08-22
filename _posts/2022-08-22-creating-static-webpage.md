@@ -27,6 +27,10 @@ I used the [Jekyll chirpy theme](https://github.com/cotes2020/jekyll-theme-chirp
     *   `gem install jekyll`
     * `bundle` (run this inside your local github repository (***dewshr.github.io***))
 
+```
+I already have homebrew installed.
+```
+
 # Launching web page locally
 Run the command `bundle exec jekyll s`. This will give you the server address (example: http://127.0.0.1:4000/). After you go to the server address it should look something like this
 ![chirpy_default](/assets/img/chirpy_default.png)
