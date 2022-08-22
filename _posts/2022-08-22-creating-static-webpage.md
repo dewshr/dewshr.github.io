@@ -28,7 +28,7 @@ I used the [Jekyll chirpy theme](https://github.com/cotes2020/jekyll-theme-chirp
     * `bundle` (run this inside your local github repository (***dewshr.github.io***))
 
 # Launching web page locally
-Run the command `bundle exec jekyll s`. Tjis will give you the server address (example: http://127.0.0.1:4000/). After you go to the server address it should look something like this
+Run the command `bundle exec jekyll s`. This will give you the server address (example: http://127.0.0.1:4000/). After you go to the server address it should look something like this
 ![chirpy_default](/assets/img/chirpy_default.png)
 
 To customize the names and links to the social media, go to the configuration file `config.yml` and make changes over there.
@@ -77,6 +77,8 @@ After successful build and deployment, go to `settings` and then click on `pages
 
 ![github_launch_page](/assets/img/github_launch_page.png)
 
+
+<br/>
 
 ------
 > **_NOTE:_**  Everytime you make changes you need to `git add .` and `git commit -m 'message'` and `git push`.
