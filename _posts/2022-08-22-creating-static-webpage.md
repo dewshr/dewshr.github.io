@@ -10,7 +10,6 @@ pin: true
 # Getting Started
 I used the [Jekyll chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for this webpage. Follow the following steps to create your own webpage.
 
-<br/>
 
 # Steps:
 
@@ -34,7 +33,6 @@ Run the command `bundle exec jekyll s`. Tjis will give you the server address (e
 
 To customize the names and links to the social media, go to the configuration file `config.yml` and make changes over there.
 
-<br/>
 
 # Adding new posts
 Create a new file with extension `.md` inside the folder **_posts**. The file name should follow in this order: `2022-08-22-creating-static-webpage.md`. Inside the file you need to have this on the top:
@@ -50,7 +48,6 @@ pin: true
 ```
 The last number on the date represents the time zone. For more details follow this [link](https://chirpy.cotes.page/posts/write-a-new-post/)
 
-<br/>
 
 # Building and Deploying website through github
 Before we deploy, there is also another file (**pages-deploy.yml**) that needs to be changed. I used `vi .github/workflows/pages-deploy.yml` to edit the file.
@@ -76,10 +73,11 @@ The successful built and deployment will have the green check mark as shown abov
 bundle lock --add-platform ruby
 ```
 
-------
-> **_NOTE:_** Everytime you make changes you need to `git add .` and `git commit -m 'message'` and `git push`.
-------
-
 After successful build and deployment, go to `settings` and then click on `pages` and then change the branch to `gh-pages` and save. 
 
 ![github_launch_page](/assets/img/github_launch_page.png)
+
+
+------
+> **_NOTE:_**  Everytime you make changes you need to `git add .` and `git commit -m 'message'` and `git push`.
+------
