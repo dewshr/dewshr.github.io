@@ -10,11 +10,11 @@ If you want to include multiple plots in a single figure, you can do that by cre
 
 In this section of code I am just loading the example dataset.
 
-```
+```ruby
 import searborn as sns
 import matplotlib.pyplot as plt
 
-data = sns.load _dataset('tips')
+data = sns.load_dataset('tips')
 tips.head()
 
 total_bill	tip	sex	smoker	day	time	size
@@ -28,7 +28,8 @@ total_bill	tip	sex	smoker	day	time	size
 
 
 After loading the data you can use following code for subplots
-```
+
+```ruby
 cols = ['sex','smoker','day', 'time']
 
 fig, axes = plt.subplots(nrows=2, ncols=2, figsize=(10,10))
