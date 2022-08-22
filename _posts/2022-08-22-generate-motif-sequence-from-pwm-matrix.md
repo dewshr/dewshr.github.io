@@ -10,7 +10,7 @@ I am using PWM (Position Weight Matrix) file in meme format downloaded from [JAS
 
 ```
 import random
-
+import numpy as np
 
 def generate_nucleotide(probability):
     if sum(probability) ==1:
