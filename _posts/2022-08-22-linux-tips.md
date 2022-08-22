@@ -1,5 +1,5 @@
 ---
-title: "Linux Tips"
+title: Linux Tips
 author: Dewan Shrestha
 date: 2022-08-22 13:30:00 -0500 
 categories: [linux]
