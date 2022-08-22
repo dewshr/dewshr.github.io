@@ -1,5 +1,5 @@
 ---
-title: Add count numbers for each category on box plot
+title: Add frequency count for each category on box plot
 author: Dewan Shrestha
 date: 2022-08-22 17:00:00 -0500 
 categories: [python, pandas]
