@@ -1,7 +1,7 @@
 ---
 title: Cheat Sheet
 author: Dewan Shrestha
-date: 2022-08-23 12:30:00 -0500 
+date: 2022-08-23 00:30:00 -0500 
 categories: [pdf]
 tags: [linux, conda, git]
 ---
