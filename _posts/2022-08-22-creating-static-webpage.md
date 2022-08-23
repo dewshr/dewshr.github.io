@@ -13,7 +13,7 @@ I used the [Jekyll chirpy theme](https://github.com/cotes2020/jekyll-theme-chirp
 
 # Steps:
 
-*   First go to the [Chipry github page](https://github.com/cotes2020/jekyll-theme-chirpy). Click on the **Chirpy starter**. This will redirect you to create new github repository. Name the repository as \<your user name\>.github.io. So, in my case, I created **dewshr.github.io**
+*   First go to the [Chirpy github page](https://github.com/cotes2020/jekyll-theme-chirpy). Click on the **Chirpy starter**. This will redirect you to create new github repository. Name the repository as \<your user name\>.github.io. So, in my case, I created **dewshr.github.io**
 
 *   Clone your git repository to your local computer using `git clone`.
 
