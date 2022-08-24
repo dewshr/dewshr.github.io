@@ -11,6 +11,7 @@ First, lets load the dataset:
 
 ```ruby
 import searborn as sns
+import numpy as np
 import matplotlib.pyplot as plt
 
 data = sns.load_dataset('tips')
