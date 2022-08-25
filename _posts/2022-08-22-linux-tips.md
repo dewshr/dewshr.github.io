@@ -8,6 +8,7 @@ pin: true
 ---
 
 **Change the value of specific column given a condition (if else)**
+
 `awk '{print $1,($2<0)? 0 : $2,$3}`
 
 **Find common lines between two files**
