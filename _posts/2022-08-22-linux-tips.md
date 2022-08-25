@@ -3,9 +3,12 @@ title: Linux Tips
 author: Dewan Shrestha
 date: 2022-08-22 13:30:00 -0500 
 categories: [linux]
-tags: [awk, sed, shell]
+tags: [awk, sed, shell, condition]
 pin: true
 ---
+
+**Change the value of specific column given a condition (if else)**
+`awk '{print $1,($2<0)? 0 : $2,$3}`
 
 **Find common lines between two files**
 
