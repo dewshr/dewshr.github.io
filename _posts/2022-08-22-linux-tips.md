@@ -33,6 +33,10 @@ extract: `tar -xzvf compressed.tar.gz`
 
 `awk '($4 < 5)' input_file.txt > output_file.txt`
 
+**Filering using multiple conditions**
+
+`awk '($4 <5 && $4 >0)' input_file.txt > output_file.txt`
+
 **Getting mean value for specific column**
 
 `awk {total +=$4} END {print total/NR} input_file.txt`
