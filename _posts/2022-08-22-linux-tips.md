@@ -3,9 +3,19 @@ title: Linux Tips
 author: Dewan Shrestha
 date: 2022-08-22 13:30:00 -0500 
 categories: [linux]
-tags: [awk, sed, shell, condition]
+tags: [awk, sed, shell, condition, tar]
 pin: true
 ---
+
+**Create a directory with multiple sub-directories**
+
+`mkdir -p output_folder/{raw_data,temp_data,result,log_folder}`
+
+**Compress and decompress file**
+
+compress: `tar -zcvf compressed.tar.gz *.csv`
+
+extract: `tar -xzvf compressed.tar.gz`
 
 **Change the value of specific column given a condition (if else)**
 
