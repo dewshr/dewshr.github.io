@@ -3,7 +3,7 @@ title: Pandas Tricks
 author: Dewan Shrestha
 date: 2022-08-24 16:45:00 -0500 
 categories: [python, pandas]
-tags: [pandas, filter, fimo, tricks]
+tags: [pandas, filter, fimo, tricks, transription_factors]
 ---
 
 ## Splitting a row into multiple rows based on substring in a specific column
@@ -54,3 +54,23 @@ fimo_df.head()
 ```
 
 ![fimp_filter2](/assets/img/pandas_tricks/fimo_filter2.png)
+
+<br/>
+
+
+## Filtering dataframe if substring in a column matches to any elements of a list
+
+Lets assume we have a dataframe as below:
+
+`df.head()`
+![pandas_tricks3](/assets/img/pandas_tricks/pandas_tricks3.png)
+
+And we want to filter out the dataframe based on our list of transcription factors (TF) as:
+`tf_list = ['BATF','PBX3']`
+
+Since, the TF we are interested is a substring in column `motif_id`, we can't use `df[df['motif_id']].isin(tf_list)`. So, we can achieve that by:
+
+![pandas_tricks4](/assets/img/pandas_tricks/pandas_tricks4.png)
+
+In the code, above we are also using `.upper()` function to convert all letters to uppercase if there are any lowercase letters.
+
