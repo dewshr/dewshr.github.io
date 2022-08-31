@@ -3,7 +3,7 @@ title: Pandas Tricks
 author: Dewan Shrestha
 date: 2022-08-24 16:45:00 -0500 
 categories: [python, pandas]
-tags: [pandas, filter, fimo, tricks, transription_factors]
+tags: [pandas, filter, fimo, tricks, split,transription_factors]
 ---
 
 ## Splitting a row into multiple rows based on substring in a specific column
@@ -27,6 +27,15 @@ pp.head(n=7)
 ```
 ![pandas_tricks2](/assets/img/pandas_tricks/pandas_tricks2.png)
 
+<br/>
+
+## Splitting index into separate columns
+Lets say, we have a dataframe of interaction data with genomic region and gene it is interacting with. As shown in the figure below, the genomic coordinates is the index, and we want to split the index into 3 separate columns which can be done by:
+
+`data[['chr','start','stop']] = list(data.index.str.replace(':','-').str.split('-'))`
+
+
+![split_index](/assets/img/pandas_tricks/split_index.png)
 
 <br/>
 
