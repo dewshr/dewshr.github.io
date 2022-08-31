@@ -21,7 +21,7 @@ Here is an example to extract the **exons** from human genome version hg19:
 
 ![ucsc_table_browser_download](/assets/img/ucsc_table_browser2.png)
 
-You can also download the [gtf file](/_posts/2022-08-31-public-data-links.md), and parse the file to get the desired information such as TSS, intergenic region, exons, introns etc. You need to install `bedtools` for this.
+You can also download the [gtf file]({% post_url 2022-08-31-public-data-links %}), and parse the file to get the desired information such as TSS, intergenic region, exons, introns etc. You need to install `bedtools` for this.
 
 **Extracting intergenic region**
 
