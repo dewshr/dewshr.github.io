@@ -3,7 +3,7 @@ title: Creating a static webpage
 author: Dewan Shrestha
 date: 2022-08-22 11:30:00 -0500 
 categories: [webpage_tutorial]
-tags: [webpage, github pages, jekyll]
+tags: [webpage, github pages, jekyll, markdown, link]
 pin: true
 ---
 
