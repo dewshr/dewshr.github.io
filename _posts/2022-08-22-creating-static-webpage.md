@@ -54,10 +54,9 @@ The last number on the date represents the time zone. For more details follow th
 
 # Linking another post within a post
 
-You can link another markdown page using `post_url`. In the text below `gtf file` is the text that will appear in the page that will link to another page. `2022-08-31-public-data-links` is the name of another markdown file that you want to link. You don't need to put `.md` after the name.
-```
-[gtf file]({% post_url 2022-08-31-public-data-links %})
-```
+You can link another markdown page using `post_url`. In the image below `gtf file` is the text that will appear in the page that will link to another page. `2022-08-31-public-data-links` is the name of another markdown file that you want to link. You don't need to put `.md` after the name.
+
+![link_post](/assets/img/link_post.png)
 
 # Building and Deploying website through github
 Before we deploy, there is also another file (**pages-deploy.yml**) that needs to be changed. I used `vi .github/workflows/pages-deploy.yml` to edit the file.
