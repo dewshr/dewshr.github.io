@@ -35,14 +35,14 @@ awk 'BEGIN{OFS="\t";} $3=="gene" {print $1,$4-1,$5}' hg19_gencode.v41lift37.anno
 awk '{OFS="\t"} $3=="exon" {print $1,$4-1,$5}' hg19_gencode.v41lift37.annotation.gtf | sortBed | bedtools merge -i stdin > hg19_gencode_v41_exon.bed
 ```
 
-The `hg38_chrom.sizes` can be downloaded from this [link](https://github.com/igvteam/igv/tree/master/genomes/sizes). Or you can generate yourself from the fasta file.
-
 
 **Extracting intron coordinates**
 
 ```sh
 awk '{OFS="\t"} $3=="gene" {print $1,$4-1,$5}' hg19_gencode.v41lift37.annotation.gtf | sortBed | bedtools subtract -a stdin -b stdin_test.bed > hg19_gencode_v41_intron.bed
 ```
+
+The `hg38_chrom.sizes` can be downloaded from this [link](https://github.com/igvteam/igv/tree/master/genomes/sizes). Or you can generate yourself from the fasta file.
 
 ```sh
 # First create index file using samtools
