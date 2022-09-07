@@ -9,13 +9,28 @@ pin: false
 
 This posts mainly consists of the links to different genomic data.
 
-**Genome file**
 
-*For the latest release, download from folder latest.*
+# UCSC Data links
 
-[hg38 fasta](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/)
+[UCSC hg19 ftp site](https://hgdownload.soe.ucsc.edu/goldenPath/hg19/)
+-   [hg19 fasta](https://hgdownload.cse.ucsc.edu/goldenpath/hg19/bigZips/)
+-   [liftover chain files](https://hgdownload.soe.ucsc.edu/goldenPath/hg19/liftOver/)
+-   [phastcon 100 way score](https://hgdownload.soe.ucsc.edu/goldenPath/hg19/phastCons100way/)
+-   [phylop 100 way score](https://hgdownload.soe.ucsc.edu/goldenPath/hg19/phyloP100way/)
+-   [multi species alignment file](https://hgdownload.cse.ucsc.edu/goldenpath/hg19/multiz100way/maf/)
+ 
 
-[hg19 fasta](https://hgdownload.cse.ucsc.edu/goldenpath/hg19/bigZips/)
+
+[UCSC hg38 ftp site](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/)
+-   [hg38 fasta](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/bigZips/)
+-   [liftover chain files](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/)
+-   [phastcon 100 way score](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/phastCons100way/)
+-   [phylop 100 way score](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/phyloP100way/)
+-   [multi species alignment file](https://hgdownload.cse.ucsc.edu/goldenpath/hg38/multiz100way/maf/)
+
+[UCSC tools link](http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64.v385/)
+
+<br />
 
 **Gencode GTF**
 
