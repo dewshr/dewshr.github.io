@@ -25,6 +25,12 @@ extract: `tar -xzvf compressed.tar.gz`
 
 `comm -12 >(sort file1) <(sort file2)`
 
+**Replace empty columnn with certain value**
+
+`awk -F, 'BEGIN {FS=OFS}{if ($7=="") $7="changed"; else $7=$7; print}' input_file.txt > modified_input.txt`
+
+Here, if 7th column is replaced by value `changed` if its empty else, original value is kept
+
 **Getting all the rows with 2 columns having same values**
 
 `awk '($4==$5)' input_file.txt > output_file.txt`
