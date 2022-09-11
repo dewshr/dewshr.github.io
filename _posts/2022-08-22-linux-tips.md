@@ -13,7 +13,7 @@ pin: true
 
 **Go to specific line number using vi**
 
-` vi +14 filename`
+`vi +14 filename`
 
 This will open the file at line 14
 
