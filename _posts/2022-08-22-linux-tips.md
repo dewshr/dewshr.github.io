@@ -11,6 +11,12 @@ pin: true
 
 `mkdir -p output_folder/{raw_data,temp_data,result,log_folder}`
 
+**Go to specific line number using vi**
+
+` vi +14 filename`
+
+This will open the file at line 14
+
 **Compress and decompress file**
 
 compress: `tar -zcvf compressed.tar.gz *.csv`
