@@ -27,6 +27,10 @@ pp.head(n=7)
 ```
 ![pandas_tricks2](/assets/img/pandas_tricks/pandas_tricks2.png)
 
+**You can just use explode if the values are list. Inn the example below is the interaction data where one regions `(a1)` is interacting with multiple region `(a2)` which are presented in a list**
+
+![pandas_explode_row](/assets/img/pandas_tricks/pandas_explode_row.png)
+
 <br/>
 
 ## Splitting index into separate columns
