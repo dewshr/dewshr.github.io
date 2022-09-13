@@ -27,6 +27,11 @@ extract: `tar -xzvf compressed.tar.gz`
 
 `awk '{print $1,($2<0)? 0 : $2,$3}`
 
+**Add a new column with unique id**
+
+`awk '{FS=OFS="\t"}{ print $1"\t"$2"\t"$3"\tid-"NR"\t"$4; }' filename > output_filename` 
+
+
 **Find common lines between two files**
 
 `comm -12 >(sort file1) <(sort file2)`
