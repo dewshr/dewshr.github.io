@@ -89,6 +89,6 @@ After successful build and deployment, go to `settings` and then click on `pages
 
 <br/>
 
-------
-> **_NOTE:_**  Everytime you make changes you need to `git add .` and `git commit -m 'message'` and `git push`.
-------
+
+> **_NOTE:_** Everytime you make changes you need to `git add .` and `git commit -m 'message'` and `git push`.
+
