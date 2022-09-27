@@ -1,9 +1,9 @@
 ---
 title: Biological Data Resources
 author: Dewan Shrestha
-date: 2022-08-22 13:30:00 -0500 
+date: 2022-09-27 13:30:00 -0500 
 categories: [Bioinformatics]
-tags: [genetics, sed, shell, condition, tar]
+tags: [genetics, data, resource,public_data]
 pin: false
 ---
 
