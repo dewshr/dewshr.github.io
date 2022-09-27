@@ -65,3 +65,8 @@ plt.savefig('/Users/dshresth/Downloads/test.pdf')
 ![motif](/assets/img/test.png)
 
 Please make sure you have required packages for this to work. I also have the script [here](https://github.com/dewshr/Bioinformatics-tools-and-data/tree/main/create_motif_logo).
+
+
+## Reference
+
+-	[logomaker](https://logomaker.readthedocs.io/en/latest/implementation.html#logo-class)
