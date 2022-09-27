@@ -1,7 +1,7 @@
 ---
 title: Generate Frequency count table and motif logo from given fasta sequences
 author: Dewan Shrestha
-date: 2022-09-27 13:20:00 -0500 
+date: 2022-09-27 13:30:00 -0500 
 categories: [Bioinformatics]
 tags: [motif, logo, biopython, pwm, fasta, seaborn]
 pin: false
