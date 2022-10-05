@@ -1,7 +1,7 @@
 ---
 title: Divide pandas dataframe into bins
 author: Dewan Shrestha
-date: 2022-08-22 13:30:00 -0500 
+date: 2022-10-05 15:30:00 -0500 
 categories: [python, pandas]
 tags: [pandas, seaborn, cut, qcut, bin]
 pin: false
