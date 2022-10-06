@@ -22,3 +22,7 @@ pin: false
 [GTEx](https://gtexportal.org/home/)
 
 [Metascape](https://metascape.org/gp/index.html#/main/step1)
+
+[Depmap portal](https://depmap.org/portal/)
+
+[cBioPortal](https://www.cbioportal.org/)
