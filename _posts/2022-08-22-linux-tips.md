@@ -17,6 +17,10 @@ pin: true
 
 This will open the file at line 14
 
+**Find duplicate lines in a file**
+
+`uniq -D filename`
+
 **Compress and decompress file**
 
 compress: `tar -zcvf compressed.tar.gz *.csv`
