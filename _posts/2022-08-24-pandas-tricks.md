@@ -3,7 +3,7 @@ title: Pandas Tricks
 author: Dewan Shrestha
 date: 2022-08-24 16:45:00 -0500 
 categories: [python, pandas]
-tags: [pandas, filter, fimo, tricks, split,transription_factors]
+tags: [pandas, filter, fimo, tricks, split,transription_factors, merge, reduce]
 ---
 
 ## Splitting a row into multiple rows based on substring in a specific column
@@ -86,4 +86,18 @@ Since, the TF we are interested is a substring in column `motif_id`, we can't us
 ![pandas_tricks4](/assets/img/pandas_tricks/pandas_tricks4.png)
 
 In the code, above we are also using `.upper()` function to convert all letters to uppercase if there are any lowercase letters.
+
+## Merge multiple dataframes based on a column
+
+Here, there are 4 dataframes, and I want to merge them based on the common column name `id`.
+```py
+import pandas as pd
+from functools import reduce
+
+df_list = [df1, df2, df3, df4]
+
+merged_df = reduce(lambda left, right: pd.merge(left, right, on=['id'], how='outer'), df_list)
+
+merged_df = merged_df.dropna()
+```
 
