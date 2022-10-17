@@ -3,7 +3,7 @@ title: Linux Tips
 author: Dewan Shrestha
 date: 2022-08-22 13:30:00 -0500 
 categories: [linux]
-tags: [awk, sed, shell, condition, tar]
+tags: [awk, sed, shell, condition, tar, split]
 pin: true
 ---
 
@@ -16,6 +16,12 @@ pin: true
 `vi +14 filename`
 
 This will open the file at line 14
+
+**Split a large file into multiple smaller files**
+
+`split -l 500 input_filename output_filename`
+
+If there are 2000 lines in a file, this will split the input file into 4 files each with 500 lines.
 
 **Find duplicate lines in a file**
 
