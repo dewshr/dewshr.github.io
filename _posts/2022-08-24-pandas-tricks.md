@@ -3,7 +3,7 @@ title: Pandas Tricks
 author: Dewan Shrestha
 date: 2022-08-24 16:45:00 -0500 
 categories: [python, pandas]
-tags: [pandas, filter, fimo, tricks, split,transription_factors, merge, reduce]
+tags: [pandas, filter, fimo, tricks, split,transription_factors, merge, reduce, compare, equal]
 ---
 
 ## Splitting a row into multiple rows based on substring in a specific column
@@ -101,3 +101,9 @@ merged_df = reduce(lambda left, right: pd.merge(left, right, on=['id'], how='out
 merged_df = merged_df.dropna()
 ```
 
+## Compare if two columns are equal in pandas dataframe
+
+```py
+df['column1'].equals(df['column2'])
+```
+This will `True` or `False` as output.
