@@ -12,7 +12,10 @@ First, lets load the dataset:
 ```ruby
 import searborn as sns
 import numpy as np
+import matplotlib
 import matplotlib.pyplot as plt
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
 
 data = sns.load_dataset('tips')
 tips.head()

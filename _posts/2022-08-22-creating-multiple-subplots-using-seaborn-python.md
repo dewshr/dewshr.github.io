@@ -3,7 +3,7 @@ title: Creating Multiple Subplots in One Figure Using Seaborn Python
 author: Dewan Shrestha
 date: 2022-08-22 13:30:00 -0500 
 categories: [python, pandas]
-tags: [seaborn, matplotlib, subplots]
+tags: [seaborn, matplotlib, subplots, rcparam]
 ---
 
 If you want to include multiple plots in a single figure, you can do that by creating axes. Here, is the sample code for that.
@@ -12,7 +12,11 @@ In this section of code I am just loading the example dataset.
 
 ```ruby
 import searborn as sns
+import matplotlib
 import matplotlib.pyplot as plt
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
+
 
 data = sns.load_dataset('tips')
 tips.head()
