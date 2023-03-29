@@ -38,3 +38,6 @@ This posts mainly consists of the links to different genomic data.
 
 [hg19](https://www.gencodegenes.org/human/release_41lift37.html)
 
+**Blacklist region**
+
+[Chip blacklist region](https://github.com/Boyle-Lab/Blacklist/tree/master/lists)
