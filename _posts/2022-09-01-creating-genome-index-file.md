@@ -16,6 +16,8 @@ There are several tools available map sequencing data to the reference genome. A
 
 ```sh
 bwa index hg38.fa
+samtools faidx hg38.fa
+cut -f1,2 hg38.fa.fai > hg38.sizes
 ```
 **[Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml)**
 
